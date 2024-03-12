@@ -5,7 +5,7 @@ Hybrid Neural Network for OceanS (CNN-RNN-LSTM)
 
 
 
-developed in indian institute of technology kharagpur
+developed in indian institute of technology kharagpur  
 
 
 
